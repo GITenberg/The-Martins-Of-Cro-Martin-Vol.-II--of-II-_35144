@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1744
     wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35144#The-Martins-Of-Cro-Martin-Vol.-II--of-II-
 gutenberg_issued: '2011-02-02'
 gutenberg_type: Text
 identifiers:
